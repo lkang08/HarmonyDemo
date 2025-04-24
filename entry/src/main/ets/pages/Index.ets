@@ -1,7 +1,7 @@
 import { AddressBook, Person } from '../model/Model';
 import taskpool from '@ohos.taskpool';
 import { hilog } from '@kit.PerformanceAnalysisKit';
-import { promptAction } from '@kit.ArkUI';
+import { promptAction, router } from '@kit.ArkUI';
 import { SearchSwiper } from '../component/SearchSwiper';
 import { RouterPath } from '../constant/RouterPath';
 import { AppRouter } from '../router/AppRouter';
@@ -102,6 +102,7 @@ struct Index {
       .onClick(() => {
         //router.pushUrl({url:'pages/DownloadPage'})
         //router.push({url:'pages/DownloadPage'})
+        router.pushUrl({url: 'pages/AnimatePage'})
       })
 
 

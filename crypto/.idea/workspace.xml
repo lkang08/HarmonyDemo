@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e15ba7e-dbb2-439b-b7d2-8f4d835aebf1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BuildProfile.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Index.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build-profile.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-rules.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hvigorfile.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obfuscation-rules.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oh-package.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ets/AsymmetricEncryption.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ets/CryptoStandardDefine.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ets/DigestAlgorithm.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ets/EncryptUtil.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ets/SymmetricEncryption.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ets/XXTEA.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/module.json5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/base/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/en_US/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/zh_CN/element/string.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/common/guide_home_1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/common/guide_home_2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/common/guide_home_3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/component/TimeBarComponent.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/http/api.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/http/http.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/pages/AnimatePage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/pages/DragPage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/pages/LivePage.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/rsa/StringUtils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/rsa/aes2.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/rsa/httpHelperUtil.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/rsa/resUtil.ets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../entry/src/main/ets/seelink/http/SLHttp.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build-profile.json5" beforeDir="false" afterPath="$PROJECT_DIR$/../build-profile.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/entryability/EntryAbility.ets" beforeDir="false" afterPath="$PROJECT_DIR$/../entry/src/main/ets/entryability/EntryAbility.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/ets/pages/Index.ets" beforeDir="false" afterPath="$PROJECT_DIR$/../entry/src/main/ets/pages/Index.ets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../entry/src/main/resources/base/profile/main_pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/../entry/src/main/resources/base/profile/main_pages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oh-package-lock.json5" beforeDir="false" afterPath="$PROJECT_DIR$/../oh-package-lock.json5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oh-package.json5" beforeDir="false" afterPath="$PROJECT_DIR$/../oh-package.json5" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2szIbeTkMo7vEIO9Wer9DZWLkkr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/HP/DevEcoStudioProjects/HarmonyDemo/crypto"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>

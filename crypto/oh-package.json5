@@ -1,0 +1,11 @@
+{
+  "name": "@slink/crypto",
+  "version": "1.0.0",
+  "description": "加解密公共基础库",
+  "main": "Index.ets",
+  "author": "slink",
+  "license": "Apache-2.0",
+  "keywords": ['RSA', 'MD5', 'XXTea', 'AES', 'SHA'],
+  "dependencies": {
+  }
+}
